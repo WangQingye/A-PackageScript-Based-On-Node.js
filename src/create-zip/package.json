@@ -1,0 +1,20 @@
+{
+  "name": "create-zip",
+  "version": "1.0.0",
+  "description": "create zip files by default.res.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "zip",
+    "file"
+  ],
+  "author": "chengxu1973",
+  "license": "MIT",
+  "dependencies": {
+    "adm-zip": "^0.4.7",
+    "archiver": "^2.0.0",
+    "crc-32": "^1.0.2"
+  }
+}

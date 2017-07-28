@@ -1,0 +1,21 @@
+{
+  "folder": [
+    "../../resource/image",
+    "../../resource/bimage",
+    "../../resource/plugin",
+    "../../resource/Excle2Json"
+  ],
+  "file": [
+    "../../resource/config/H5.xls",
+    "../../resource/config/Excle2Json.exe"
+  ],
+  "mainfest":{
+      "folder":[
+        "./resource/music",
+        "./resource/topics"
+      ],
+      "file":[
+
+      ]
+  }
+}

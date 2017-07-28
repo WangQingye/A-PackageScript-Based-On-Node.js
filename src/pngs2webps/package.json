@@ -1,0 +1,19 @@
+{
+  "name": "png2webp",
+  "version": "1.0.0",
+  "description": "png to webp",
+  "main": "pngs2webps.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "png",
+    "webp",
+    "converter"
+  ],
+  "author": "ChengXu1973",
+  "license": "ISC",
+  "dependencies": {
+    "webp-converter": "^2.1.6"
+  }
+}
